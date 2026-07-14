@@ -47,7 +47,7 @@ But if you like things that are built with passion, a bit of chaos, and plenty o
 ---
 ### ☕ Current Fuel Level
 
-```bash
+```
       )  (
      (   ) )
       ) ( (
