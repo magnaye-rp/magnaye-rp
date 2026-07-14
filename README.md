@@ -3,27 +3,27 @@
                      /                                                                          \
                      |    _________________________________________________________________     |
                      |    |                                                                |    |
-                     |    |                                          |     |               |    |
-                     |    |                                          \\_V_//               |    |
+                     |    |                                         ._______.              |    |
+                     |    |                                         \ __V__ /              |    |
                      |    |                                          \/=|=\/               |    |
                      |    |                                           [=v=]                |    |
                      |    |                                         __\___/_____           |    |
                      |    |                                        /..[  _____  ]          |    |
                      |    |                                       /_  [ [  M /] ]          |    |
-                     |    |                                      /../.[ [ M /@] ]          |    |
-                     |    |                                     <-->[_[ [M /@/] ]          |    |
-                     |    |                                    /../ [.[ [ /@/ ] ]          |    |
-                     |    |               _________________]\ /__/  [_[ [/@/ C] ]          |    |
-                     |    |              <_________________>>0---]  [=\ \@/ C / /          |    |
-                     |    |                 ___      ___   ]/000o   /__\ \ C / /           |    |
+                     |    |                                      /../.[ [ P /8] ]          |    |
+                     |    |                                     <-->[_[ [R /8/] ]          |    |
+                     |    |                                    /../ [.[ [ /8/ ] ]          |    |
+                     |    |               _________________]\ /__/  [_[ [/8/ M] ]          |    |
+                     |    |              <_________________>>O---]  [=\ \8/ P / /          |    |
+                     |    |                 ___      ___   ]/OOOo   /__\ \ R / /           |    |
                      |    |                    \    /              /....\ \_/ /            |    |
                      |    |                 ....\||/....           [___/=\___/             |    |
                      |    |                .    .  .    .          [...] [...]             |    |
                      |    |               .      ..      .         [___/ \___]             |    |
-                     |    |               .    0 .. 0    .         <---> <--->             |    |
+                     |    |               .    ` .. `    .         <---> <--->             |    |
                      |    |            /\/\.    .  .    ./\/\      [..]   [..]             |    |
-                     |    |           / / / .../|  |\... \ \ \    _[__]   [__]_            |    |
-                     |    |          / / /       \/       \ \ \  [____>   <____]           |    |
+                     |    |           / / / .../|__|\... \ \ \    _[__]   [__]_            |    |
+                     |    |          / / /                \ \ \  [____)   (____]           |    |
                      |    |                                                                |    |
                      |    |________________________________________________________________|    |
                      |                                                                          |
@@ -45,9 +45,9 @@ I'm a developer and networking enthusiast who clearly spends way too much time t
 But if you like things that are built with passion, a bit of chaos, and plenty of packets flowing smoothly across the wire, you're in the right place.
 
 ---
-```
 ### ☕ Current Fuel Level
 
+```bash
       )  (
      (   ) )
       ) ( (
@@ -61,8 +61,9 @@ But if you like things that are built with passion, a bit of chaos, and plenty o
 ---
 
 ### 📡 Live Ping Test
-```bash
-$ ping -c 3 rpmagnaye.networq.online
+
+```
+magnaye.rp$ ping -c 3 rpmagnaye.networq.online
 
 64 bytes from rpmagnaye.networq.online: icmp_seq=1 ttl=56 time=12.4 ms
 64 bytes from rpmagnaye.networq.online: icmp_seq=2 ttl=56 time=11.1 ms
@@ -94,7 +95,7 @@ Want to see what I actually build when I'm not playing with text drawings or con
 
 ```
 No.     Time           Source                Destination           Protocol   Length   Info
-──────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 1       0.000000       [Guest_IP]            [Ryan_Brain]          TCP        66       [SYN] Seq=0 Win=64240 Len=0
 2       0.000102       [Ryan_Brain]          [Guest_IP]            TCP        66       [SYN, ACK] Seq=0 Ack=1 Win=65160
 3       0.001420       [Guest_IP]            [Ryan_Brain]          TCP        60       [ACK] Seq=1 Ack=1 Win=64240
@@ -106,7 +107,7 @@ No.     Time           Source                Destination           Protocol   Le
 
 ### 🖥️ Hardware & Core Inventory
 
-```
+```bash
 [SYSTEM_SPECS]
 OS = "Ubuntu Server (Mental Edition)"
 Processor = "Overthinking Core i9 (Overclocked at 4.2GHz on Mondays)"
@@ -143,11 +144,11 @@ Power_Source = "Black Coffee / Dark Roast Protocol"
 
    - Port 80 / 443 (HTTP/S): Just open an Issue or a Pull Request right here on GitHub.
    - Port 25 (SMTP): Hit me up via transmission signal at magnaye.rp@gmail.com.
-   - Port 23 (Telnet): Drop by my website terminal at rpmagnaye.networq.online.
+   - Port 23 (Telnet): Drop by my website terminal at [rpmagnaye.networq.online.](http://rpmagnaye.networq.online)
    - Port 123 (NTP): Currently synced to PHT (Philippine Time Zone).
 
 ---
-```
-===============================================================================================================
+```bash
+"==============================================================================================================="
                     [END OF LINE. THANK YOU FOR SCANNING THIS PROFILE. DISCONNECTING...]
-===============================================================================================================
+"==============================================================================================================="
